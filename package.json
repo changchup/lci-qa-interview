@@ -1,0 +1,12 @@
+{
+  "name": "qa-interview",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "CyrilJoseph <78891643+xyrilj@users.noreply.github.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@playwright/test": "^1.44.1",
+    "@types/node": "^20.14.8"
+  },
+  "scripts": {}
+}
